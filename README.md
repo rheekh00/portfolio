@@ -100,14 +100,15 @@
 ## TEACHING ASSISTANT
 
 - 문병로 교수님 '자료구조' 및 '알고리즘' 강의 조교 (4회)
-- 삼성전자 DS 과정 '알고리즘' 강의 조교 (3회)
+- 삼성전자 DS 과정 10, 11, 12기 '알고리즘' 강의 조교
 
 ---
 
 ## AWARD
 
-- **2023 한국CDE 학회 우수 포스터상**  
-  디지털 트윈 환경 연구
+- [**2023 한국CDE 학회 우수 포스터상**](https://github.com/rheekh00/bayes-opt-smart-factory/blob/main/assets/certificate.jpg)  
+  디지털 트윈 환경 bayesian optimization을 이용한 장비 배치 최적화 연구
+  [simulation video](https://github.com/rheekh00/bayes-opt-smart-factory/blob/main/assets/simulation_video.webm)
 
 ---
 
