@@ -33,11 +33,13 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat&logo=datadog&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
 
 ### 기타
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white)
 ![Nsight](https://img.shields.io/badge/Nsight-76B900?style=flat)
 ![Distributed Data Parallel](https://img.shields.io/badge/Distributed%20Data%20Parallel-0078D4?style=flat)
+![NVIDIA Omniverse](https://img.shields.io/badge/NVIDIA%20Omniverse-76B900?style=flat&logo=nvidia&logoColor=white)
 
 ---
 
