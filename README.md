@@ -15,10 +15,29 @@
 
 ## SKILLS
 
-- **프로그래밍 언어**: Python, C++, Java
-- **AI/ML 프레임워크**: PyTorch, TensorFlow, Hugging Face, Deepspeed
-- **클라우드 및 도구**: AWS, Docker, Git, Postman
-- **기타**: CUDA, Nsight 프로파일링, Distributed Data Parallel (DDP)
+### 프로그래밍 언어
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+
+### AI/ML 프레임워크
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFBF00?style=flat&logo=huggingface&logoColor=white)
+![DeepSpeed](https://img.shields.io/badge/DeepSpeed-0078D4?style=flat)
+![LangChain](https://img.shields.io/badge/LangChain-0052CC?style=flat)
+
+### 클라우드 및 도구
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat&logo=datadog&logoColor=white)
+
+### 기타
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white)
+![Nsight](https://img.shields.io/badge/Nsight-76B900?style=flat)
+![Distributed Data Parallel](https://img.shields.io/badge/Distributed%20Data%20Parallel-0078D4?style=flat)
 
 ---
 
