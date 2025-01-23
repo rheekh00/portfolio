@@ -1,5 +1,3 @@
----
-
 # 이기훈
 
 이메일: rheekh00@snu.ac.kr | 전화번호: 010-3024-3937 | GitHub: [rheekh00](https://github.com/rheekh00)
