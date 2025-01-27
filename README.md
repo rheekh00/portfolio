@@ -16,30 +16,34 @@
 ## SKILLS
 
 ### 프로그래밍 언어
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-blue?logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-blue?logo=java&logoColor=white)
 
 ### AI/ML 프레임워크
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFBF00?style=flat&logo=huggingface&logoColor=white)
-![DeepSpeed](https://img.shields.io/badge/DeepSpeed-0078D4?style=flat)
-![LangChain](https://img.shields.io/badge/LangChain-0052CC?style=flat)
+![PyTorch](https://img.shields.io/badge/PyTorch-red?logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?logo=tensorflow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-yellow?logo=huggingface&logoColor=white)
+![DeepSpeed](https://img.shields.io/badge/DeepSpeed-blue?logo=microsoft&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-blue?logo=chain&logoColor=white)
 
 ### 클라우드 및 도구
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat&logo=datadog&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-orange?logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-blue?logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-orange?logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-orange?logo=postman&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-purple?logo=datadog&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-black?logo=notion&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-blue?logo=slack&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-green?logo=qdrant&logoColor=white)
 
 ### 기타
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white)
-![Nsight](https://img.shields.io/badge/Nsight-76B900?style=flat)
-![Distributed Data Parallel](https://img.shields.io/badge/Distributed%20Data%20Parallel-0078D4?style=flat)
-![NVIDIA Omniverse](https://img.shields.io/badge/NVIDIA%20Omniverse-76B900?style=flat&logo=nvidia&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-green?logo=nvidia&logoColor=white)
+![Nsight](https://img.shields.io/badge/Nsight-green?logo=nvidia&logoColor=white)
+![Distributed Data Parallel](https://img.shields.io/badge/Distributed%20Data%20Parallel-green?logo=pytorch&logoColor=white)
+![NVIDIA Omniverse](https://img.shields.io/badge/NVIDIA%20Omniverse-green?logo=nvidia&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-blue?logo=openai&logoColor=white)
+
 
 ---
 
